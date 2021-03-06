@@ -3,7 +3,7 @@ Language: Python
 Class: CS-4200 Python for Scientific Computing and Data Science
 Project: Final Coding Project
 
-# DataScience_Python_FinalCode
+# DataScience_Python_Final_Coding_Assignment
 Final Coding for Test for Python for Scientific Computing and Data Science
 
 This project solves the issues as layed out in the following requirements
